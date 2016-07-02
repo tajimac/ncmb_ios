@@ -20,4 +20,5 @@ Pod::Spec.new do |s|
   s.frameworks = "Foundation", "UIKit", "MobileCoreServices", "AudioToolbox", "SystemConfiguration"
   s.requires_arc = true
   s.dependency 'FBSDKLoginKit'
+  s.dependency 'FBSDKLoginKit'
 end
